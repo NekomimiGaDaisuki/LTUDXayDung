@@ -4,7 +4,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C478AAE8-AC7C-4895-A2ED-A8339509B50D}</ProjectGuid>
+    <ProjectGuid>{7C076738-0F03-4110-BDD1-98A59C307DBE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LTUDXayDung</RootNamespace>
